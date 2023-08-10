@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Mandal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roheet00&label=Profile%20views&color=0e75b6&style=flat" alt="roheet00" /> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 
 - 🔭 I’m currently Studying on **PCPS College**
